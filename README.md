@@ -1,3 +1,2 @@
 # test
-# commit 1
-# commit 3
+# Commit 1
